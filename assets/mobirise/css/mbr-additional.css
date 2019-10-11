@@ -1162,3 +1162,18 @@ section.lazy-placeholder:after {
 .cid-rEzYdVrFSo {
   background-image: url("../../../assets/images/travel-spotlight-usa-2-1438x958.jpg");
 }
+.cid-rEAmS4rYfS {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #0f7699, #ff7f9f);
+}
+@media (min-width: 992px) {
+  .cid-rEAmS4rYfS .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rEAmS4rYfS .mbr-figure {
+    padding-top: 3rem;
+  }
+}
